@@ -46,5 +46,3 @@ StudySphere is built using the following technologies:
 - *Firebase Authentication (User authentication)*: Providing secure authentication mechanisms for user login and registration.
 - *WebRTC*: Utilized for real-time communication in the video chat feature.
 
-### Website 
-To access the live website, visit https://nisargaa20.github.io/Elearning_Platform/
