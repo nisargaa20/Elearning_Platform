@@ -23,7 +23,7 @@ With StudySphere's diverse range of features, you can customize your learning ex
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/studysphere.git
+1. Clone the repository: git clone https://github.com/nisargaa20/Elearning_Platform.git
 2. Install dependencies: npm install
 3. Start the development server: npm start
 
@@ -45,3 +45,6 @@ StudySphere is built using the following technologies:
 - *Socket.io (Real-time communication)*: Enabling real-time chat and video chat functionalities for seamless communication.
 - *Firebase Authentication (User authentication)*: Providing secure authentication mechanisms for user login and registration.
 - *WebRTC*: Utilized for real-time communication in the video chat feature.
+
+### Website 
+To access the live website, visit https://nisargaa20.github.io/Elearning_Platform/
